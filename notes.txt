@@ -1,0 +1,6 @@
+<h1> -- this is the biggest heading. it goes from 1 to 6, 6 being the smallest
+most things need a opening tag and a closing tag, example: <h1></h1>
+<p></p> is a paragraph element
+<br> is a line break
+<hr> is a horizontal line 
+<img src = ""> is to put in an image
